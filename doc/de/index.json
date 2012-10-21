@@ -17,6 +17,16 @@
                 "hasownproperty",
                 "forinloop"
             ]
+        },
+        {
+            "title": "Sprachkern",
+            "dir": "core",
+            "articles": [
+                "eval",
+                "undefined",
+                "semicolon",
+                "delete"
+            ]
         }
     ]
 }
