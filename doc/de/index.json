@@ -7,6 +7,16 @@
             "title": "Einführung",
             "dir": "intro",
             "articles": []
+        },
+        {
+            "title": "Objekte",
+            "dir": "object",
+            "articles": [
+                "general",
+                "prototype",
+                "hasownproperty",
+                "forinloop"
+            ]
         }
     ]
 }
